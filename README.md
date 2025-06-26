@@ -1,16 +1,46 @@
-# notification
+# 🔔 Flutter Notifications Practice App
 
-A new Flutter project.
+A beginner-friendly Flutter app that demonstrates how to display, schedule, and manage local notifications with support for background execution, recurring alerts, and timezone-aware scheduling.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔔 Show Instant Local Notifications with custom title and message  
+- 📆 Schedule Timezone-Aware Notifications using `flutter_timezone` and `timezone`  
+- 🔁 Display Repeating Weekly Notifications for recurring reminders  
+- ❌ Cancel Notifications by ID for precise control  
+- 📲 Initialize Notifications with custom Android/iOS settings  
+- 🧠 Handle Notification Responses for background and foreground interaction  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left"> 
+        <img src="https://skillicons.dev/icons?i=flutter,dart,vscode,git,github" alt="Tech stack icons" />
+</p>
+
+---
+
+## 📦 Packages Used
+
+- 🔔 `flutter_local_notifications` 
+- 🌐 `timezone` 
+- 🕓 `flutter_timezone`
+
+---
+
+
+## 📬 Connect with Me
+
+<h5 align="left"> 
+  <a href="https://www.linkedin.com/in/fady-esam/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fady Esam" height="45" width="45" /> 
+  </a> 
+  &nbsp;
+  <a href="mailto:fady.esam.0101@gmail.com" target="_blank"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="45" width="50" /> 
+  </a> 
+</h5>
