@@ -4,7 +4,7 @@ A beginner-friendly **Flutter** app that demonstrates how to display, schedule, 
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
 - 🔔 Show Instant Local Notifications with custom title and message  
 - 📆 Schedule Timezone-Aware Notifications 
