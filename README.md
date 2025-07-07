@@ -1,13 +1,13 @@
 # 🔔 Flutter Notifications Practice App
 
-A beginner-friendly Flutter app that demonstrates how to display, schedule, and manage local notifications with support for background execution, recurring alerts, and timezone-aware scheduling.
+A beginner-friendly **Flutter** app that demonstrates how to display, schedule, and manage local notifications with support for background execution, recurring alerts, and timezone-aware scheduling.
 
 ---
 
 ## ✨ Features
 
 - 🔔 Show Instant Local Notifications with custom title and message  
-- 📆 Schedule Timezone-Aware Notifications using `flutter_timezone` and `timezone`  
+- 📆 Schedule Timezone-Aware Notifications 
 - 🔁 Display Repeating Weekly Notifications for recurring reminders  
 - ❌ Cancel Notifications by ID for precise control  
 - 📲 Initialize Notifications with custom Android/iOS settings  
